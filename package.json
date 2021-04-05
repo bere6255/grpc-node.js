@@ -1,0 +1,18 @@
+{
+  "name": "demo-grpc",
+  "version": "1.0.0",
+  "description": "trying grpc out",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grpc"
+  ],
+  "author": "bere",
+  "license": "ISC",
+  "dependencies": {
+    "grpc": "^1.24.2",
+    "@grpc/proto-loader": "^0.5.6"
+  }
+}
